@@ -163,7 +163,7 @@ button:focus{
     right: 0;
     bottom: 0;
     left: 0;
-    background: #e3ab00;
+    background: #f2e19b;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -313,7 +313,7 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #e1a900;
+	background: #f8e69e;
 	color: #ffffff;
 }
 
@@ -333,7 +333,7 @@ button:focus{
 }
 
 .navbar-toggler{
-	border: 1px solid #cc9a00;
+	border: 1px solid #e1a900;
 	border-radius: 0;
 	margin: 16px 15px;
 	padding: 10px 10px;
@@ -343,7 +343,7 @@ button:focus{
 	transition: all 0.2s linear;
 }
 .navbar-toggler span{
-	background: #cc9a00;
+	background: #e1a900;
 	display: block;
 	width: 25px;
 	height: 2px;
@@ -469,7 +469,7 @@ button:focus{
 }
 .countdown #timer div{
 	display: inline-block;
-	background: #cc9a00;
+	background: #e1a900;
 	width: 20%;
 	color: #ffffff;
 	font-size: 38px;
@@ -489,7 +489,7 @@ button:focus{
 	padding: 0px;
 	padding-top: 28px;
 	padding-bottom: 17px;
-	background: #e1a900;
+	background: #f8e69e;
 }
 
 .countdown #timer div h6{
@@ -527,7 +527,7 @@ button:focus{
 .tooltip-1 {
 	display: inline-block;
 	position: relative;
-	color: #e1a900;
+	color: #f8e69e;
 	opacity: 1;
 }
 
@@ -583,7 +583,7 @@ button:focus{
 }
 
 .about-m{
-	background: #e1a900;
+	background: #f8e69e;
 	padding: 0px 30px;
 }
 
@@ -755,7 +755,7 @@ button:focus{
 }
 .family-info{
 	padding: 25px 30px;
-	background-color: #e1a900;
+	background-color: #f8e69e;
 	text-align: center;
 	position: absolute;
 	bottom: 15px;
@@ -861,7 +861,7 @@ button:focus{
 	opacity: 1;
 }
 .gallery-box ul li a:hover{
-	border: 4px solid #e1a900;
+	border: 4px solid #f8e69e;
 }
 
 /*------------------------------------------------------------------
@@ -877,13 +877,13 @@ button:focus{
     padding: 25px 30px;
     text-align: center;
     background: #ffffff;
-    border-top: 3px solid #e1a900;
-    border-bottom: 3px solid #e1a900;
+    border-top: 3px solid #f8e69e;
+    border-bottom: 3px solid #f8e69e;
     position: relative;
 }
 .serviceBox:before{
     content: "";
-    border-top: 0 solid #e1a900;
+    border-top: 0 solid #f8e69e;
     border-right: 0 solid transparent;
     position: absolute;
     left: 0;
@@ -897,7 +897,7 @@ button:focus{
 }
 .serviceBox:after{
     content: "";
-    border-bottom: 0 solid #e1a900;
+    border-bottom: 0 solid #f8e69e;
     border-left: 0 solid transparent;
     position: absolute;
     bottom: 0;
@@ -914,17 +914,17 @@ button:focus{
     width: 100px;
     height: 100px;
     line-height: 100px;
-    border: 2px solid #e1a900;
+    border: 2px solid #f8e69e;
     background: #ffffff;
     font-size: 60px;
-    color: #e1a900;
+    color: #f8e69e;
     margin-bottom: 20px;
     position: relative;
 }
 .serviceBox .title{
     font-size: 20px;
     font-weight: 700;
-    color: #e1a900;
+    color: #f8e69e;
     letter-spacing: 1px;
     margin: 0 0 12px 0;
     text-transform: uppercase;
@@ -974,7 +974,7 @@ button:focus{
 	transform: scale(1.5) rotate(-10deg);
 }
 .event-inner a{
-	background: #e3ab00;
+	background: #f2e19b;
 	color: #ffffff;
 	padding: 5px 10px;
 	display: inline-block;
@@ -996,11 +996,11 @@ button:focus{
 .contact-block{}
 
 .contact-block .form-group .form-control{
-	background: #e1a900;
+	background: #f8e69e;
 	height: 45px;
 	font-size: 16px;
 	border: 0;
-	color: #ffffff;
+	color: #e1a900;
 	padding: 6px 15px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
@@ -1017,7 +1017,7 @@ button:focus{
 }
 
 .submit-button .btn-common{
-	background-color: #e3ab00;
+	background-color: #f2e19b;
 	height: 45px;
 	line-height: 45px;
 	font-size: 16px;
