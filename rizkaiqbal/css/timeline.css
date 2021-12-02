@@ -2277,7 +2277,7 @@
 	height: 1px;
 	width: 5%;
 	position: absolute;
-	background-color: #e1a900;
+	background-color: #f8e69e;
 	top: 16px;
 	right: 8px; 
 }
@@ -2383,7 +2383,7 @@
 	text-justify: justify;
 	text-align: left;
 	padding: 0px 10px;
-	border-left: 5px solid #e1a900;
+	border-left: 5px solid #f8e69e;
 }
 .timeLine .row .pull-right {
 	float: right;
@@ -2407,7 +2407,7 @@
 	height: 1px;
 	width: 5%;
 	position: absolute;
-	background-color: #e1a900;
+	background-color: #f8e69e;
 	top: 21px;
 	left: 12px; 
 }

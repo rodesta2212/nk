@@ -36,7 +36,7 @@
 		margin: 12px 0px;
 	}
 	.lbox-details::before{
-		background: rgba(0,0,0,0.9);
+		background: #fff;
 	}
 	.countdown{
 		height: 188px;
@@ -59,6 +59,7 @@
 	}
 	.lbox-details h1{
 		font-size: 24px;
+		color: #000;
 	}
 	.lbox-details h2{
 		font-size: 18px;
@@ -115,7 +116,7 @@
 		margin: 12px 0px;
 	}
 	.lbox-details::before{
-		background: rgba(0,0,0,0.9);
+		background: #fff;
 	}
 	.countdown{
 		height: 188px;
